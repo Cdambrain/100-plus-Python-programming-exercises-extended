@@ -299,6 +299,7 @@ print(list(filter(lambda j: j is not None, list(map(even, lst)))))
 ```
 ---
 
+
 # Question 43
 
 ### **Question:**
